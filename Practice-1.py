@@ -15,7 +15,7 @@ print(f)
 print(type(f))
 
 hex_value1 = 0x16
-hex_value2 = 0XaE
+hex_value2 = 0XbC
 print("hexValue1的值为：", hex_value1)
 print("hexValue2的值为：", hex_value2)
 # 以0b或0B开头的整数数值是二进制的整数
